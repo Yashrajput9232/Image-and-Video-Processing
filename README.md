@@ -1,5 +1,6 @@
 
 # Image and Video Processing Lab Submissions
+By Yash Rajput - TY EC - 211060042
 
 ## Experiments Submitted to Dr. Faruk Kazi
 
